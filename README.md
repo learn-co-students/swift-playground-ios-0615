@@ -2,6 +2,12 @@
 
 ## Objectives
 
+1. Use a Swift Playground for small amounts of code.
+2. Use the `print()` function to send information to the Console Output viewer.
+3. Practice creating instances using `let` and `var`.
+4. Practice string interpolation with multiple parameters. 
+5. Perform arithmetic inside an interpolation literal.
+
 ## Playgrounds
 
 With Swift, Xcode introduces a new tool called Playgrounds. These are single files that are continuously scanned and compiled, providing a way to test code snippets without the bulk of an entire Xcode project. They are a great tool for practicing Swift syntax and we suggest you use this one (or another one of your making) when moving forward with these lessons.
