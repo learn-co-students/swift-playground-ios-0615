@@ -46,7 +46,7 @@ Add a line `print(str)` that sends `Hello, Playground` to the Console Output vie
   * Did you use `let` or `var` when you declared `summary` the first time?
 
 4. Finally, reassign `course` to describe the new iOS Fellowship so that `summary` reads:  
-*In the Mobile Development Corps class at the Flatirons School there are 20 students learning Swift from Tim Clem.*  
+*In the Mobile Development Corps class at the Flatiron School there are 20 students learning Swift from Tim Clem.*  
 Print `summary` again.
 
 ##### Additional Practice (optional)
