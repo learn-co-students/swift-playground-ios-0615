@@ -30,7 +30,7 @@ Add a line `print(str)` that sends `Hello, Playground` to the Console Output vie
 
 ### II. Flatiron Summary
 
-1. Create the following instances using `let`:
+1. Create the following variables using `let`:
   * `flatiron` which holds a string `"the Flatiron School"`,
   * `course` which holds a string `"Mobile Development with iOS"`,
   * `leadInstructor` which holds a string `"Tim Clem"`,
