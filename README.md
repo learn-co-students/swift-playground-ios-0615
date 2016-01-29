@@ -77,4 +77,5 @@ Reassign the instances so that `summary` will print:
   * Web Immersive B: 34 students
 
 4. Finally, use the constants that you just created to print the same string that reads `Total students: 136`.
-<a href='https://learn.co/lessons/swift-playground' data-visibility='hidden'>View this lesson on Learn.co</a>
+
+View <a href='https://learn.co/lessons/swift-playground' data-visibility='hidden'>Swift Playground</a> on Learn.co and start learning to code for free.
